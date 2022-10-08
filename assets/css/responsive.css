@@ -1,0 +1,43 @@
+
+/* Mobile  */
+@media (max-width:739px) 
+{
+    #nav {
+        display: block;
+    }
+
+    #nav > div {
+        display: block;
+    }
+
+    #nav > div:first-child {
+        display: inline-block;
+    }
+
+    #header .search-btn {
+        display: none;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+}
+
+/* Tablet */
+
+@media (min-width: 740px) and (max-width: 1023px)
+{
+    .modal .modal-container  {
+        width: 500px;
+        margin-top: -300px;
+    }
+
+}
+
+/* PC  */
+
+@media (min-width: 1024px) 
+{
+   
+}
