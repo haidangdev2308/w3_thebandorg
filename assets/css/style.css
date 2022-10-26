@@ -49,10 +49,6 @@ html {
     scroll-behavior: smooth;
 }
 
-#main {
-
-}
-
 #header {
     height: 46px;
     background-color: #000;
@@ -176,10 +172,6 @@ html {
 #slider .text-description {
     font-size: 15px;
     font-weight: 570;
-}
-
-#content {
-    
 }
 
 #content .content-section {
